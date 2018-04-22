@@ -37,6 +37,6 @@ end
 
 # Define your play method below
 def play(board)
-while turn(board)
+until turn(board)
 end
 end
